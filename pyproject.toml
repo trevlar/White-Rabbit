@@ -1,6 +1,6 @@
 [project]
 name = "white-rabbit"
-version = "0.16.0"
+version = "0.17.0"
 description = "A bot for playing Alice is Missing via Discord"
 readme = "README.md"
 requires-python = ">=3.10"
