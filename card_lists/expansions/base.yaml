@@ -26,6 +26,8 @@ characters:
         full-name: Jack Briarwood
     julia:
         full-name: Julia North
+    jordan:
+        full-name: Jordan Elridge
 
 # List of suspects. Descriptions optional, colons are not.
 suspects:

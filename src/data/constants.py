@@ -7,8 +7,8 @@ COMMAND_PREFIX = "!"
 VERSION = "0.16.0"
 DOCS_URL = "https://white-rabbit.readthedocs.io/"
 DOCS_SHORT_URL = "https://white-rabbit.rtfd.io/"
-SOURCE_URL = "https://github.com/circumspect/White-Rabbit"
-RAW_FILES_URL = f"https://raw.githubusercontent.com/circumspect/White-Rabbit/{VERSION}/"
+SOURCE_URL = "https://github.com/trevlar/White-Rabbit"
+RAW_FILES_URL = f"https://raw.githubusercontent.com/trevlar/White-Rabbit/{VERSION}/"
 BLANK_DOTENV_URL = f"{RAW_FILES_URL}/example.env"
 
 # Timer
