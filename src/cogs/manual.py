@@ -76,7 +76,7 @@ class Manual(commands.Cog):
         if not ctx.game.automatic:
             asyncio.create_task(ctx.send(loc["shuffle_motives"]["Shuffling"]))
 
-        motives = list(range(1, 6))
+        motives = list(range(1, 7))
         random.shuffle(motives)
         ctx.game.motives = {
             character.lower(): motive

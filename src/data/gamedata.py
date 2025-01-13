@@ -22,7 +22,7 @@ REMINDER_BUFFER = 2
 
 # Clue card info
 CLUE_TIMES = (90, 80, 70, 60, 50, 45, 40, 35, 30, 20)
-BUCKET_SIZES = {3: (3, 3, 4), 4: (2, 2, 3, 3), 5: (2, 2, 2, 2, 2)}
+BUCKET_SIZES = {3: (3, 3, 4), 4: (2, 2, 3, 3), 5: (2, 2, 2, 2, 2), 6: (2, 2, 2, 2, 1, 1)}
 CLUE_TYPES = {
     80: "suspect", 70: "location", 60: "suspect", 50: "location",
     45: ("suspect", "location", "location"), 40: "suspect",

@@ -22,12 +22,12 @@ characters:
         full-name: Dakota Travis
     evan:
         full-name: Evan Holwell
+    jordan:
+        full-name: Jordan Elridge
     jack:
         full-name: Jack Briarwood
     julia:
         full-name: Julia North
-    jordan:
-        full-name: Jordan Elridge
 
 # List of suspects. Descriptions optional, colons are not.
 suspects:
